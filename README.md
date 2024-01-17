@@ -1,5 +1,10 @@
 # AlexToTheRescue
 End project for CG2111A by Group B04-4A (AY22/23 Sem 2) 
+Members:
+Tan Yi Xin
+Siew Shui Hon
+Tay Pong Hee
+Zhou Jun Min
 
 ## Project Description
 We built a robot "Alex" with search and rescue capabilities, applying baremetal coding concepts in our Arduino code as well
